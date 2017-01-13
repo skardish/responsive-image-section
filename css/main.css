@@ -17,6 +17,15 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
 @media only screen and (min-width: 38em) {
 
 }
@@ -26,5 +35,5 @@ html {
 }
 
 @media only screen and (min-width: 90em) {
-  
+
 }
