@@ -22,6 +22,20 @@ body {
   margin: 0;
 }
 
+h1 {
+  margin: .75rem;
+}
+
+h2 {
+  margin: .75rem;
+  margin-bottom: 0;
+}
+
+p {
+  margin: .75rem;
+  margin-top: 0;
+}
+
 .img-flex {
   display: block;
   width: 100%;
@@ -36,6 +50,7 @@ body {
   border-radius: 4px;
   display: inline-block;
   text-align: center;
+  margin: .75rem;
 }
 
 .btn:hover {
