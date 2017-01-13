@@ -42,7 +42,7 @@ p {
   margin-top: 1rem;
 }
 
-.btn {
+a {
   background-color: #555;
   text-decoration: none;
   color: #fff;
@@ -53,7 +53,7 @@ p {
   margin: .75rem;
 }
 
-.btn:hover {
+a:hover {
   background-color: #000;
 }
 
